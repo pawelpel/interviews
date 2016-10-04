@@ -1,2 +1,2 @@
 # py-interviews_questions
-Python interviwes questions library (version 22.09.16)
+Python interviwes questions (version 22.09.16)
